@@ -1,3 +1,3 @@
-# In-class exercise on event listeners: color-scheme-switcher-js
+# General Assembly Lab: In-class exercise on event listeners
 
 https://github.com/rixiobarrios/color-scheme-switcher
